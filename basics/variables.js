@@ -3,4 +3,16 @@ let accountEmail = "admin"
 var password = "11111"
 city = "alld."
 
-console.table([accountEmail, accountId, password, city])
+/*
+Prefer not to use var.
+Because of issue in block scope and functional scope.
+*/
+
+
+accountEmail= "User"
+password = "22222"
+city = "srj"
+let accountState;
+
+
+console.table([accountEmail, accountId, password, city, accountState])
