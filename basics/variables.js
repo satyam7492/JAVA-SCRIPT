@@ -15,4 +15,5 @@ city = "srj"
 let accountState;
 
 
-console.table([accountEmail, accountId, password, city, accountState])
+console.table([accountEmail, accountId, password, city, accountState]);
+ // nothing is changed don't be worry about anything //
