@@ -10,3 +10,18 @@ go to http://www.ECMAscript.com
 */
 console.log(typeof undefined); // output = undefined
 console.log(typeof null); // output = object
+
+
+let name = "hitesh";
+let age = 18;
+let isLoggedIn = false
+
+// number => 2^53
+// bigint => 
+// string => " "
+// boolean => true/false
+// null => standalone value
+// undefined => 
+//  symbol => unique
+// object =>
+    
